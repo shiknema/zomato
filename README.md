@@ -62,8 +62,8 @@ Building this small app, we've covered a lot of ground. We...
 - Learned about the power of third-party Components and how to use them in your app
 - Learned how to split your app into multiple components
 
-Of course, we didn't learn them very deeply. You now have an idea on how to build a simple app in React Native, but the learning only starts here!
-In this app there is only frontend work.There is no backend work in this app.We have named our app to RnRestaurant.
+Of course, I didn't learn it very deeply. But now I have an idea on how to build a simple app in React Native, but the learning only starts here!
+In this app there is only frontend work, There is no backend work in this app.I have named my app  RnRestaurant,which shows the restaurants.
 
 
 # Resources
@@ -76,5 +76,4 @@ Useful resources:
 - [Awesome React Native](https://github.com/jondot/awesome-react-native) - More resources than you will ever have time to read!
 
 ##Made by sshrivastava711@gmail.com
-   * URL OF OUR GIHUB ZOMATO PROJECT IS  :-
   
