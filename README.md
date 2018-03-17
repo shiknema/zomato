@@ -76,5 +76,6 @@ Useful resources:
 - [Awesome React Native](https://github.com/jondot/awesome-react-native) - More resources than you will ever have time to read!
 
 ##Made by sshrivastava711@gmail.com
+
 ##Made by vickycena99@gmail.com
   
